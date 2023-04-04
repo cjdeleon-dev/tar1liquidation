@@ -1,0 +1,26 @@
+﻿.vertical-nav {
+    min-width: 20rem;
+    width: 20rem;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.8);
+    transition: all 0.4s;
+    background: #ffffff;
+}
+
+
+.page-content {
+    margin-top: 2rem;
+    padding-left: 21rem;
+    top: 0;
+}
+
+body {
+    font-family: 'Segoe UI' !important;
+    font-size: 12px !important;
+    margin-top: 1em;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
